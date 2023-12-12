@@ -1,5 +1,8 @@
-### Hi there 👋
+Hi there👋 I'm a Frontend Software Engineer based in Singapore.
+My mission is to translate user-centred designs into problem-solutions.
 
+##Skills 💻
+https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB
 <!--
 **on-xx/on-xx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
